@@ -110,77 +110,77 @@ A aplicação estará disponível em `http://localhost:8080`.
 - **Testes Automatizados**: Desenvolver testes unitários e de integração para garantir a qualidade e confiabilidade do código.
 - **Interface de Usuário**: Desenvolver uma interface web ou mobile para interação dos usuários finais com o sistema.
 
-  Cadastro de Restaurantes e Estabelecimentos
+- **Cadastro de Restaurantes e Estabelecimentos
   Funcionalidade: Permite que os restaurantes se cadastrem e apresentem seus menus, horários de funcionamento, e informações de contato.
   Diferenciação: Ofereça uma interface ainda mais simples para cadastramento de novos restaurantes e opções de personalização (fotos de pratos, menus interativos, promoções).
 
-  Busca e Filtragem de Restaurantes
+- **Busca e Filtragem de Restaurantes
   Funcionalidade: Os usuários podem buscar restaurantes por tipo de comida (ex. pizza, sushi, fast food) e também aplicar filtros como avaliações, tempo de entrega e distância.
   Diferenciação: Implementar filtros avançados, como alimentos saudáveis, opções veganas/vegetarianas, e até filtros baseados em dietas específicas (low carb, sem glúten, etc.).
 
-  Sistema de Avaliações e Comentários
+- **Sistema de Avaliações e Comentários
   Funcionalidade: Os usuários podem avaliar os restaurantes e os pratos, ajudando outros consumidores a tomar decisões.
   Diferenciação: Crie um sistema de "créditos de feedback", onde os usuários podem acumular pontos e ganhar recompensas (descontos, brindes) por deixar avaliações.
 
-  Carrinho de Compras e Checkout
+- **Carrinho de Compras e Checkout
   Funcionalidade: Após escolher os itens, o usuário pode adicionar ao carrinho e realizar o pagamento.
   Diferenciação: Ofereça diferentes opções de pagamento, como carteiras digitais, criptomoedas ou até "pagar depois" (como em alguns aplicativos de crédito).
 
-  Rastreamento de Pedido em Tempo Real
+- **Rastreamento de Pedido em Tempo Real
   Funcionalidade: Os usuários podem acompanhar a preparação e o tempo estimado para entrega do pedido em tempo real.
   Diferenciação: Ofereça funcionalidades como "visão em 3D do trajeto" ou vídeos ao vivo do preparo dos alimentos (para criar uma experiência mais interativa e transparente).
 
-  Promoções e Cupons de Desconto
+- **Promoções e Cupons de Desconto
   Funcionalidade: Oferecer cupons e promoções personalizadas com base no histórico de compras.
   Diferenciação: Use algoritmos de recomendação para criar promoções hiperpersonalizadas e ofertas dinâmicas baseadas em geolocalização e tempo real (ex. descontos em restaurantes próximos durante horários de baixa demanda).
 
-  Geolocalização
+- **Geolocalização
   Funcionalidade: Usa a localização do usuário para mostrar restaurantes próximos e estimar o tempo de entrega.
   Diferenciação: Use recursos de geolocalização para oferecer promoções baseadas em localização (ex. "desconto de 10% em restaurantes ao seu redor") ou até "mapeamento de preferências" (descubra novos restaurantes próximos com base nas suas escolhas anteriores).
 
-  Entrega
+- **Entrega
   Funcionalidade: A plataforma organiza a entrega por meio de motoristas parceiros ou diretamente com os restaurantes.
   Diferenciação: Ofereça integração com entregadores autônomos (ex. drones, robôs) ou entrega de pacotes compartilhados, onde um entregador leva mais de um pedido por vez, reduzindo custos de logística e aumentando a eficiência.
 
-  Histórico de Pedidos e Recomendações
+- **Histórico de Pedidos e Recomendações
   Funcionalidade: Histórico de pedidos passados, com opções de repetir facilmente o pedido.
   Diferenciação: Ofereça recomendações baseadas em preferências alimentares ou até sugestões de novos pratos com base em hábitos alimentares e saúde.
 
-Funcionalidades Extras para Atração de Clientes e Restaurantes:
+- **Funcionalidades Extras para Atração de Clientes e Restaurantes:
 
-    Assinaturas de Refeições ou Planos de Refeição
+- **Assinaturas de Refeições ou Planos de Refeição
         Ofereça planos de assinatura, onde os usuários podem pagar um valor mensal para receber refeições diárias ou semanais, com um preço fixo e descontos exclusivos.
         Isso cria fidelização, permitindo ao usuário não precisar pensar nos pedidos, apenas desfrutar de uma refeição diária.
 
-    Programas de Fidelidade
+- **Programas de Fidelidade
         Crie um sistema de pontos onde os usuários acumulam pontos a cada compra e podem trocá-los por descontos ou produtos grátis.
         Diferenciação: Ofereça um programa de "fidelidade social" onde o usuário acumula pontos não apenas pelas compras, mas também por convidar amigos ou compartilhar promoções nas redes sociais.
 
-    Menu Digital Personalizado com IA
+- **Menu Digital Personalizado com IA
         Um menu dinâmico que muda conforme as preferências do usuário, histórico de pedidos e até seu humor ou condição física (se conectado a apps de saúde).
         Pode incluir sugestões baseadas na inteligência artificial, como "se você gostou de X, você também vai adorar Y".
 
-    Parcerias e Integrações com Supermercados ou Mercados Locais
+- **Parcerias e Integrações com Supermercados ou Mercados Locais
         Além de entregar refeições, que tal permitir que o usuário compre ingredientes frescos e receba também junto com o pedido? Por exemplo, "compra um lanche e leve uma garrafinha de suco ou fruta fresca do mercado".
         Integração com produtores locais e supermercados para criar uma plataforma completa de entrega de alimentos.
 
-    Entrega Mais Rápida
+- **Entrega Mais Rápida
         Concentre-se em oferecer entregas ultra-rápidas para aqueles que querem suas refeições rapidamente. Utilize entregadores em áreas de alta densidade, com um modelo "ultra-express" (ex: entrega dentro de 15 minutos).
         Pode criar zonas de entrega rápida (áreas com maior concentração de pedidos, para garantir rapidez).
 
-    Entrega de Alimentos Saudáveis e Funcionais
+- **Entrega de Alimentos Saudáveis e Funcionais
         Focar em um nicho de alimentos saudáveis, opções funcionais (ex. smoothies, sucos detox, snacks fitness) ou até delivery de refeições para dietas específicas (como paleo, keto, vegan, sem glúten).
         Diferencie-se ao garantir que o cardápio seja curado com opções realmente saudáveis, e ofereça um plano de saúde, com nutricionistas podendo montar planos alimentares personalizados.
 
-    Apoio a Restaurantes Locais e Menos Conhecidos
+- **Apoio a Restaurantes Locais e Menos Conhecidos
         Dê destaque a pequenos restaurantes locais e estabelecimentos independentes para criar um apelo emocional e de apoio à economia local.
         Funcionalidade de curadoria: Usuários podem escolher apoiar negócios locais ou de comunidades específicas (ex. restaurante de bairro, culinária artesanal, etc.).
 
-    Interface Intuitiva e Personalizada
+- **Interface Intuitiva e Personalizada
         Garanta que a experiência do usuário seja fluida e intuitiva, com uma interface simples, mas bem organizada.
         Gamificação: Use gamificação para engajar os usuários. Pode ser algo como "desafios de pedidos", onde o usuário ganha prêmios por realizar certas ações ou atingir metas (ex: pedir em 5 restaurantes diferentes na semana).
 
-Outras Dicas Importantes:
+- **Outras Dicas Importantes:
 
     Facilidade de uso: O eucomida tem que ser bastante fácil de usar, então seu app também deve ser intuitivo e simples.
     Suporte ao cliente eficiente: Suporte rápido e direto, seja por chat, ligações ou e-mail. Problemas de pedidos e entregas precisam ser resolvidos com agilidade.
